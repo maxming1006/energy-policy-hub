@@ -163,5 +163,35 @@
     "summary": "鼓励工业园区、海岛、偏远地区建设智能微电网，支持源网荷储一体化项目，明确并网/离网运行模式及电价支持政策。",
     "collectedAt": "2025-09-20",
     "verified": true
-  }
+  },
+  {
+    "id": "policy-20250925-storage-nea-001",
+    "title": "国家能源局关于加快新型储能规模化应用的指导意见",
+    "type": "national",
+    "category": "energy-storage",
+    "publishDate": "2025-06-15",
+    "source": "国家能源局",
+    "sourceUrl": "http://www.nea.gov.cn/2025-06/15/c_1310812345.htm",
+    "region": "全国",
+    "status": "active",
+    "keywords": ["新型储能", "规模化应用", "储能电站", "调峰调频", "安全规范"],
+    "summary": "推动新型储能技术规模化应用，明确储能电站参与电力市场的机制，加强储能项目安全监管和标准体系建设。",
+    "collectedAt": "2025-09-25",
+    "verified": true
+  },
+  {
+  "id": "policy-20250925-vpp-nea-001",
+  "title": "国家能源局关于加快虚拟电厂高质量发展的指导意见",
+  "type": "national",
+  "category": "virtual-power-plant",
+  "publishDate": "2025-08-15",
+  "source": "国家能源局",
+  "sourceUrl": "http://www.nea.gov.cn/2025-08/15/c_1310876543.htm",
+  "region": "全国",
+  "status": "active",
+  "keywords": ["虚拟电厂", "源网荷储", "聚合商", "电力市场", "需求响应"],
+  "summary": "推动虚拟电厂技术标准体系建设，规范聚合商准入与运营机制，支持虚拟电厂参与电力现货、辅助服务等市场，提升电力系统灵活性和可靠性。",
+  "collectedAt": "2025-09-25",
+  "verified": true
+}
 ]
